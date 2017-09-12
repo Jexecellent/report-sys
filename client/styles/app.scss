@@ -1,0 +1,14 @@
+// variables && mixins
+@import "variables.scss";
+@import "mixins.scss";
+
+// 3d part
+@import "~animate.css";
+@import "~bulma/css/bulma.css";
+@import "~font-awesome/scss/font-awesome";
+
+// common style
+@import "common.scss";
+
+// component style
+// or code in vue component
